@@ -1,0 +1,6 @@
+numpy>=2.0
+pandas>=2.0
+plotly>=6.0
+yfinance>=0.2
+jupyter>=1.0
+ipykernel>=6.0
