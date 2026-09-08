@@ -173,7 +173,8 @@ def build_figure(
         yaxis_title="Cumulative return",
         yaxis_tickformat=".0%",
         hovermode="x unified",
-        legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01),
+        legend=dict(orientation="v", yanchor="top", y=1, xanchor="left", x=1.02),
+        margin=dict(r=180),
     )
     return fig
 

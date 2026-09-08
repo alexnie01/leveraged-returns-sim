@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 historical_data/*
 !historical_data/.gitkeep
+reports/*
+!reports/.gitkeep
